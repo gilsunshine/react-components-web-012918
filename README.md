@@ -25,7 +25,7 @@ Enough of a description -- let's see some examples! While they are much more tha
 
 In the following, we are defining a `Comment` component to display a single user comment:
 
-```javascript
+```javascript 
 class Comment extends React.Component {
   render() {
     return (
